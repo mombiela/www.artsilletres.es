@@ -1,8 +1,8 @@
 #set($_pixels = $!{generic.getChild("pixels").getTvalue()})
 #set($_pixels = ${utils.parseInt($_pixels)})
 
-#set($pixels_lateral = 900 - $_pixels)
-#set($pixels_content = $_pixels)
+#set( $pixels_lateral = 900 - $_pixels )
+#set( $pixels_content = $_pixels )
 
 #set($font_size = 14)
 #if($_font_size != "") #set($font_size = $_font_size) #end
