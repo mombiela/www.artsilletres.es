@@ -1,0 +1,48 @@
+Namespace Definition(www.semantictext.info/namespace.stxt):
+
+# ------
+# Página
+# ------
+
+Node Definition:
+	Name:contenido genérico
+	Type:node
+	Child:
+		Node:pixels contenido
+		Num:1
+	Child:
+		Node:tamaño de la fuente contenido
+		Num:1
+	Child:
+		Node:tamaño de la fuente lateral
+		Num:1
+	Child:
+		Node:Pie
+		Num:1
+	Child:
+		Node:menu
+		Num:1
+		
+Node Definition:
+	Name: pixels
+	Alias:pixels contenido
+	Type:natural
+	
+Node Definition:
+	Name:tamaño de la fuente contenido
+	Type:natural
+	
+Node Definition:
+	Name:tamaño de la fuente lateral
+	Type:natural
+	
+Node Definition:
+	Name:footer
+	Alias:Pie
+	Type:text
+	
+Node Definition:
+	Name:menu
+	Alias:Menú
+	Type:text
+

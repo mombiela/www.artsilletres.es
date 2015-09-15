@@ -1,0 +1,322 @@
+#set($_pixels = $!{generic.getChild("pixels").getTvalue()})
+#set($_pixels = ${utils.parseInt($_pixels)})
+
+#set($pixels_lateral = 900 - $_pixels)
+#set($pixels_content = $_pixels)
+
+#set($font_size = 14)
+#if($_font_size != "") #set($font_size = $_font_size) #end
+
+#set($font_size_lateral = 14)
+#if($_font_size_lateral != "") #set($font_size_lateral = $_font_size_lateral) #end
+
+/* ******* */
+/* General */
+/* ******* */
+
+/*
+	Pixels lateral: $pixels_lateral
+	Pixels content: $pixels_content
+	Pixels:         $_pixels
+*/
+
+* {
+	font-family: 'Century Gothic', 'New Gothic Std', 'Tahoma', sans-serif;	
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	background: #2C2723;
+	font-size: 12px;
+	color: #66665E;
+}
+
+h1, h2, h3 {
+	margin: 0;
+	font-weight: bold;
+	color: #F84B00;
+}
+
+h1 {
+	font-size: 44px;
+}
+
+h2 {
+	font-size: 18px;
+}
+
+h3 {
+}
+
+p, ul, ol {
+	margin-top: 0;
+	line-height: 240%;
+	text-align: justify;
+}
+
+ul, ol {
+}
+
+blockquote {
+}
+
+a {
+	color: #F84B00;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+a img {
+	border: none;
+}
+
+img.left {
+	float: left;
+	margin: 7px 30px 0 0;
+}
+
+img.right {
+	float: right;
+	margin: 7px 0 0 30px;
+}
+
+hr {
+	display: none;
+}
+
+.list1 {
+}
+
+.list1 li {
+	float: left;
+	line-height: normal;
+}
+
+.list1 li img {
+	margin: 0 30px 30px 0;
+}
+
+.list1 li.alt img {
+	margin-right: 0;
+}
+
+#wrapper {
+}
+
+/* ****** */
+/* Header */
+/* ****** */
+
+#header-wrapper {
+}
+
+#header {
+	width: 1000px;
+	height: 60px;
+	margin: 0 auto;
+	background: #FFFFFF;
+}
+
+/* **** */
+/* Menu */
+/* **** */
+
+#menu {
+	width: 950px;
+	height: 64px;
+}
+
+#menu ul {
+	margin: 0;
+	padding: 0px 0px 0px 5px;
+	list-style: none;
+	line-height: normal;
+}
+
+#menu li {
+	display: block;
+	background: url(/images/img02.jpg) repeat-y left top;
+	float: left;
+}
+
+#menu a {
+	display: block;
+	float: left;
+	height: 20px;
+	margin-right: 3px;
+	padding: 28px 25px 15px 25px;
+	text-decoration: none;
+	font-size: 17px;
+	font-weight: bold;
+	color: #989282;
+}
+
+#menu a:hover {
+	text-decoration: underline;
+	color: #F84B00;
+}
+
+#menu .current_page_item a {
+	height: 20px;
+	color: #F84B00;
+}
+
+#menu .first {
+	background: none;
+}
+
+/* **** */
+/* Page */
+/* **** */
+
+#page {
+	width: 950px;
+	margin: 0 auto;
+	padding: 0px 25px;
+	background: #FFFFFF;
+}
+
+#page-bgtop {
+	padding-top: 30px;
+}
+
+/* **** */
+/* LOGO */
+/* **** */
+
+#logo {
+	width: 1000px;
+	height: 415px;
+	margin: 0 auto;
+	padding-top: 25px;
+	position: relative;
+	background-color: #FFFFFF;
+}
+
+#logo_img {
+	position: absolute;
+	top: 25px;
+	left: 25px;
+	z-index: 10;
+}
+
+#logo_text {
+	position: relative;
+	z-index: 20;
+}
+
+#logo h1, #logo p {
+	width: 360px;
+	margin: 0px;
+	line-height: normal;
+	text-align: center;
+	font-weight: normal;
+	color: #FFFFFF;
+}
+
+#logo p {
+	font-size: 18px;
+}
+
+#logo h1 {
+	padding-top: 250px;
+	font-size: 50px;
+}
+
+#logo a {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+/* ******* */
+/* Content */
+/* ******* */
+
+#content {
+	#if($doc.getChild("sidebar")) width: ${pixels_content}px;#end
+	float: left;
+}
+
+#content p {
+	font-size: ${font_size}px;
+}
+
+/* ******* */
+/* Sidebar */
+/* ******* */
+
+#sidebar {
+	float: right;
+	width: ${pixels_lateral}px;
+	font-size: ${font_size_lateral}px;
+	#if($_numcols && "$_numcols" == "L0")display:none;#end	
+}
+
+#sidebar ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	line-height: normal;
+}
+
+#sidebar li {
+	border-bottom: 1px #BDBDBB dotted;
+	margin-bottom: 30px;
+	padding: 10px 0 10px 0px;
+}
+
+#sidebar li ul {
+}
+
+#sidebar li li {
+	margin: 0 0 0 5px;
+	padding-left: 15px;
+	background: url(/images/img09.jpg) no-repeat left 16px;
+}
+
+#sidebar p {
+	margin: 0;
+	padding: 0px 10px;
+}
+
+#sidebar h2 {
+	height: 26px;
+	margin: 0 0 10px 0px;
+	padding: 8px 0 2px 10px;
+	color: #F84B00;
+}
+
+#sidebar p {
+	line-height: 200%;
+}
+
+#sidebar a {
+}
+
+/* ****** */
+/* Footer */
+/* ****** */
+
+#footer {
+	width: 1000px;
+	height: 95px;
+	margin: 0 auto;
+	padding: 0;
+}
+
+#footer p {
+	margin: 0;
+	padding: 56px 0;
+	text-align: center;
+	line-height: normal;
+	font-size: 10px;
+	color: #66665E;
+}
+
+#footer a {
+	color: #FFFFFF;
+}
+

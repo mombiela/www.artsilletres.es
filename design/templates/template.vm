@@ -1,0 +1,41 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>$!{doc.getChild("metadata").getChild("title").getTvalue()}</title>
+		<link href='https://fonts.googleapis.com/css?family=Crafty+Girls' rel='stylesheet' type='text/css'>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+        <script>#parse("/view.js")</script>
+        <style>#parse("/style.css")</style>
+		#include("/google.vm")
+    </head>
+    <body>
+        <div id="wrapper">
+        	<div id="header">
+        		<div id="menu">
+					$!{wiki.render(${generic.getChild("menu").getTvalue()})}
+        		</div>
+        	</div>
+        	<div id="logo">
+				$!{doc.getChild("header").getTvalue()}
+        	</div>
+        	<hr />
+        	<div id="page">
+        		<div id="page-bgtop">
+        			<div id="content">
+                        <h2 class="title">
+							$!{doc.getChild("metadata").getChild("title").getTvalue()}
+                        </h2>
+                        ${doc.getChild("content").getTvalue()}
+        			</div>
+        			<div id="sidebar">
+						$!{doc.getChild("sidebar").getTvalue()}
+        			</div>
+        			<div style="clear: both;">&nbsp;</div>
+        		</div>
+        	</div>
+        	<div id="footer">
+        		$!{wiki.render(${generic.getChild("footer").getTvalue()})}
+        	</div>
+        </div>
+    </body>
+</html>

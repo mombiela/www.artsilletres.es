@@ -1,0 +1,72 @@
+Namespace Definition(www.semantictext.info/namespace.stxt):
+
+# ------
+# Página
+# ------
+
+Node Definition:
+	Name:page
+	Alias:página
+	Type:node
+	Child:
+		Node:metadata
+		Num:1
+	Child:
+		Node:contenido
+		Num:1
+	Child:
+		Node:header
+		Num:1
+	Child:
+		Node:lateral
+		Num:?
+		
+Node Definition:
+	Name: content
+	Alias:contenido
+	Type:text
+	
+Node Definition:
+	Name:header
+	Alias:cabecera
+	Type:text
+	
+Node Definition:
+	Name:sidebar
+	Alias:lateral
+	Type:text
+
+# --------
+# Metadata
+# --------
+
+Node Definition:
+	Name:metadata
+	Alias:datos página
+	Type:node
+	Child:
+		Node:title
+		Num:1
+	Child:
+		Node:keywords
+		Num: 1
+	Child:
+		Node:priority
+		Num: ?
+		
+Node Definition:
+	Name: title
+	Alias:título
+	Type:text
+	
+Node Definition:
+	Name:keywords
+	Alias:palabras clave
+	Type:text
+	
+Node Definition:
+	Name:priority
+	Alias:prioridad
+	Type:number
+
+	

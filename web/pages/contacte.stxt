@@ -1,0 +1,22 @@
+﻿Página (www.artsilletres.es/page.stxt):
+
+Datos página:
+	Título:COM CONTACTAR
+	Palabras clave:
+	Prioridad: 0.5
+
+Contenido:
+	<div class="entry">
+	<p> </p>
+	<p>Per a qualsevol consulta, pressupost o encàrrec, et pots posar en contacte amb mi a la següent direcció:</p>
+	<address style="text-align: center;"><strong><span style="text-decoration: underline;">cristinacosta@artsilletres.es</span></strong></address>
+	<p> </p>
+	</div>
+
+Cabecera:
+	<div id="logo_text">
+	<h1>arts i lletres</h1>
+	<p><em>Cristina Costa Mombiela</em></p>
+	</div>
+	<div id="logo_img"><img title="imagcontact.jpg" src="/images/imagcontact.jpg" alt="imagcontact.jpg" width="936" height="390" /></div>
+

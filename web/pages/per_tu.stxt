@@ -1,0 +1,21 @@
+﻿Página (www.artsilletres.es/page.stxt):
+
+Datos página:
+	Título:QUÈ PUC FER PER TU
+	Palabras clave:
+	Prioridad: 0.5
+
+Contenido:
+	<p> </p>
+	<p><strong>IL·LUSTRACIÓ</strong>: Il·lustracions per a contes i llibres infantils.</p>
+	<p><strong>DIBUIX</strong>: Dibuixos per a cartells, portades de revistes, programes de festa major, folletons, calendaris, postals, felicitacions, nadales, minutes de restaurant, invitacions de casament, recordatoris de comunió o bateig...</p>
+	<p><strong>PINTURA</strong>: Quadres (pintures sobre tela amb les dimensions, tècnica, temàtica i estil que prefereixis). Dibuixos de paret d’habitacions infantils, llars d’infants, botigues...</p>
+	<p><strong>ESCRIPTURA</strong>: Llibres i contes. Prosa o vers de recordatoris, dedicatòries, memòries...</p>
+
+Cabecera:
+	<div id="logo_text">
+	<h1>arts i lletres</h1>
+	<p><em>Cristina Costa Mombiela</em></p>
+	</div>
+	<div id="logo_img"><img title="imagpertu.jpg" src="/images/imagpertu.jpg" alt="imagpertu.jpg" width="936" height="390" /></div>
+

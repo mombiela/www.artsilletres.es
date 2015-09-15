@@ -1,0 +1,76 @@
+﻿Página (www.artsilletres.es/page.stxt):
+
+Datos página:
+	Título:DIBUIX I IL·LUSTRACIONS
+	Palabras clave:
+	Prioridad: 0.5
+
+Contenido:
+	<p> </p>
+	<p>Dibuixar i il·lustrar estan i sempre han estat a la posició número 1 del rànquing! Em surt de dins i en qualsevol moment: per a reflectir una situació, caricaturitzar un instant o personatge, descriure un fet o donar una explicació gràfica. Els meus fills en són fidel testimoni. Un dibuix es fa entendre tan fàcilment!</p>
+	<p>Porto tants anys fent dibuixos i per a finalitats, persones i llocs tan diferents, que crec que no seria capaç de reunir-los ni que em paguessin tot l’or del món! Això si... si veus un dibuix meu, saps que és meu. No podria canviar l’estil ni volent. Les meves il·lustracions tenen identitat pròpia. I és que no ho sé fer d’una altra manera!</p>
+	<p>La gent que em coneix sap que sóc una persona feliç, amb la gran sort de tenir una família immillorable, uns bons amics, una infància i joventut magnífiques, els millors fills del món... i, això, es reflecteix en la persona, en el meu caràcter positiu i alegre i, evidentment, en els meus dibuixos, que agafen gran part de la meva personalitat.</p>
+	<p>Són dibuixos per a nens: senzills i plans, rarament amb perspectiva o volum, on hi predomina el color i les cares amables.</p>
+	<p>És una il·lustració infantil, fonamentada en el tòpic, on els personatges dolents no ho semblen tant i amb la que els nostres petits (i els grans) s’hi senten identificats fins i tot amb la tècnica, doncs el traç manual hi dóna proximitat i innocència. Es nota clarament l'evolució il·lustrativa, doncs l'estil ha anat variant amb el temps, i els dibuixos que abans pintava a mà amb llàpissos de colors i ceres, molt més simples i infantils, s'han transformat en les il·lustracions actuals, colorejades digitalment i més riques en detall i color i, malgrat conserven l'essència del principi, aquestes s'hi diuen més per a tot tipus de públic, tant el menut com el gran.</p>
+	<p>Els meus dibuixos, a banda d’il·lustrar llibres i contes per a infants, també són per a imprimir-se en diferents formats, doncs amb ells he fet postals, nadales, cartells, calendaris, felicitacions, minutes de restaurant,  invitacions a festes, participacions de casament, recordatoris de final de curs, punts de llibre, etcètera... Així que, si t'agrada el meu estil, pots encarregar-me el que vulguis i per a la finalitat que prefereixis!</p>
+
+Cabecera:
+	<div id="logo_text">
+	<h1>arts i lletres</h1>
+	<p><em>Cristina Costa Mombiela</em></p>
+	</div>
+	<div id="logo_img"><img title="imagdibuixos.jpg" src="/images/imagdibuixos.jpg" alt="imagdibuixos.jpg" width="950" height="390" /></div>
+
+Lateral:
+	<h2>Mostra de dibuixos i formats:</h2>
+	<p> </p>
+	<p><a onclick="window.open('/images/playamontgat2012.jpg ','','resizable=yes,width=400,height=400,left=700,top=600');return false;" href="/images/playamontgat2012.jpg">Temps d'havaneres</a></p>
+	<p><img title="playamontgat2012.jpg" src="/images/playamontgat2012.jpg" alt="playamontgat2012.jpg" width="75" height="85" /></p>
+	<p> </p>
+	<p><a onclick="window.open('/images/revetlladesantjoan.jpg ','','resizable=yes,width=400,height=400,left=700,top=600');return false;" href="/images/revetlladesantjoan.jpg">Revetlla de Sant Joan</a></p>
+	<p><img title="revetlladesantjoan.jpg" src="/images/revetlladesantjoan.jpg" alt="revetlladesantjoan.jpg" width="70" height="96" /></p>
+	<p> </p>
+	<p><a onclick="window.open('/images/santjordi5.jpg','','resizable=yes,width=400,height=400,left=700,top=600');return false;" href="/images/santjordi5.jpg">Sant Jordi mata el drac</a></p>
+	<p> </p>
+	<p><span style="text-decoration: underline;"><a onclick="window.open('/images/santjordi3.jpg','','resizable=yes,width=400,height=400,left=700,top=600');return false;" href="/images/">Sant Jordi i la princesa</a></span></p>
+	<p> </p>
+	<p><a onclick="window.open('/images/patimpatampatum.jpg ','','resizable=yes,width=400,height=400,left=700,top=600');return false;" href="/images/patimpatampatum.jpg">Patim-patam-patum</a></p>
+	<p><img title="patimpatampatum.jpg" src="/images/patimpatampatum.jpg" alt="patimpatampatum.jpg" width="70" height="48" /></p>
+	<p> </p>
+	<p><a onclick="window.open('/images/santvaleni1.jpg','','resizable=yes,width=400,height=400,left=700,top=600');return false;" href="/images/santvaleni1.jpg">Sant Valentí</a></p>
+	<p> </p>
+	<p><a onclick="window.open('/images/setmanasanta2.jpg','','resizable=yes,width=400,height=400,left=700,top=600');return false;" href="/images/setmanasanta2.jpg">Setmana Santa</a></p>
+	<p> </p>
+	<p><a onclick="window.open('/images/diumengederams.jpg ','','resizable=yes,width=400,height=400,left=700,top=600');return false;" href="/images/diumengederams.jpg">El dia de la palma</a></p>
+	<p> </p>
+	<p><a onclick="window.open('/images/quaresma1.jpg','','resizable=yes,width=400,height=400,left=700,top=600');return false;" href="/images/quaresma1.jpg">Quaresma</a></p>
+	<p> </p>
+	<p><a onclick="window.open('/images/reis3.jpg','','resizable=yes,width=400,height=400,left=700,top=600');return false;" href="/images/reis3.jpg">Els Reis Mags entren a casa</a></p>
+	<p><img title="reis3.jpg" src="/images/reis3.jpg" alt="reis3.jpg" width="75" height="50" /></p>
+	<p> </p>
+	<p><a onclick="window.open('/images/reis1.jpg','','width=400,height=400,left=700,top=600');return false;" href="/images/reis1.jpg">El camell dels Reis</a></p>
+	<p> </p>
+	<p><a onclick="window.open('/images/portada2.jpg','','resizable=yes,width=400,height=400,left=700,top=600');return false;" href="/images/portada2.jpg">El català</a></p>
+	<p> </p>
+	<p><a onclick="window.open('/images/introduccio1.jpg','','resizable=yes,width=400,height=400,left=700,top=600');return false;" href="/images/introduccio1.jpg">Menjar tradicional</a></p>
+	<p> </p>
+	<p><a onclick="window.open('/images/santjoan4.jpg ','','resizable=yes,width=400,height=400,left=700,top=600');return false;" href="/images/santjoan4.jpg">Coca de Sant Joan</a></p>
+	<p> </p>
+	<p><a onclick="window.open('/images/santjoan3.jpg','','resizable=yes,width=400,height=400,left=700,top=600');return false;" href="/images/santjoan3.jpg">Focs de Sant Joan</a></p>
+	<p> </p>
+	<p><a onclick="window.open('/images/poesiaprofemireia.jpg ','','resizable=yes,width=400,height=400,left=700,top=600');return false;" href="/images/poesiaprofemireia.jpg">Recordatori de final de parvulari</a></p>
+	<p><img title="poesiaprofemireia.jpg" src="/images/poesiaprofemireia.jpg" alt="poesiaprofemireia.jpg" width="70" height="98" /></p>
+	<p> </p>
+	<p><a onclick="window.open('/images/evolucioescolarweb.jpg ','','resizable=yes,width=400,height=400,left=600,top=600');return false;" href="/images/evolucioescolarweb.jpg">Il.Lustració per a cartell fi de curs</a></p>
+	<p><img title="evolucioescolarweb.jpg" src="/images/evolucioescolarweb.jpg" alt="evolucioescolarweb.jpg" width="70" height="20" /></p>
+	<p> </p>
+	<p><a onclick="window.open('/images/universperweb.jpg ','','resizable=yes,width=400,height=400,left=700,top=600');return false;" href="/images/universperweb.jpg">Dibuix per a postal senyoreta P3</a></p>
+	<p><img title="universperweb.jpg" src="/images/universperweb.jpg" alt="universperweb.jpg" width="65" height="67" /></p>
+	<p> </p>
+	<p><a onclick="window.open('/images/aniversarinoces.jpg','','resizable=yes,width=400,height=400,left=700,top=600');return false;" href="/images/aniversarinoces.jpg">Postal per a aniversari de noces</a></p>
+	<p><img title="aniversarinoces.jpg" src="/images/aniversarinoces.jpg" alt="aniversarinoces.jpg" width="75" height="55" /></p>
+	<p> </p>
+	<p> </p>
+	<p> </p>
+	<p> </p>
+
