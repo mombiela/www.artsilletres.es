@@ -1,3 +1,5 @@
+#set($generic = ${config.get("generic")})
+
 #set($_pixels = $!{generic.getChild("pixels").getTvalue()})
 #set($_pixels = ${utils.parseInt($_pixels)})
 
