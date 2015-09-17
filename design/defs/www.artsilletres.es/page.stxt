@@ -15,20 +15,12 @@ Node Definition:
 		Node:contenido
 		Num:1
 	Child:
-		Node:header
-		Num:1
-	Child:
 		Node:lateral
 		Num:?
 		
 Node Definition:
 	Name: content
 	Alias:contenido
-	Type:text
-	
-Node Definition:
-	Name:header
-	Alias:cabecera
 	Type:text
 	
 Node Definition:
@@ -53,6 +45,9 @@ Node Definition:
 	Child:
 		Node:priority
 		Num: ?
+	Child:
+		Node:logo
+		Num: 1
 		
 Node Definition:
 	Name: title
@@ -69,4 +64,7 @@ Node Definition:
 	Alias:prioridad
 	Type:number
 
+Node Definition:
+	Name:logo
+	Type:text
 	

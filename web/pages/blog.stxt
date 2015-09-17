@@ -4,7 +4,8 @@ Datos página:
 	Título:EL MEU BLOG
 	Palabras clave:
 	Prioridad: 0.5
-
+	Logo: blog.jpg
+	
 Contenido:
 	<p> </p>
 	<p>Estiu 2012, aniversari de noces Sergio i Anna</p>
@@ -16,13 +17,6 @@ Contenido:
 	<p><img title="apic.png" src="/images/apic.png" alt="apic.png" /></p>
 	<p><br /> </p>
 	
-Cabecera:
-	<div id="logo_text">
-	<h1>arts i lletres</h1>
-	<p><em>Cristina Costa Mombiela</em></p>
-	</div>
-	<div id="logo_img"><img title="blog.jpg" src="/images/blog.jpg" alt="blog.jpg" width="950" height="390" /></div>
-
 Lateral:
 	<h2> </h2>
 	<p> </p>

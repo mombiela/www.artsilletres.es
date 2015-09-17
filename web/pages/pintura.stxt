@@ -4,6 +4,7 @@ Datos página:
 	Título:PINTURA I QUADRES
 	Palabras clave:
 	Prioridad: 0.5
+	Logo: imagpinturas.jpg
 
 Contenido:
 	<div class="entry">
@@ -14,13 +15,6 @@ Contenido:
 	<p>Colors sobre paper, aquarel·lats sobre cartolina, ceres sobre fusta, olis sobre tela... realisme o abstracció... una mica de tot! Tu em dius quin estil de quadre vols, quina tècnica, dimensions i temàtica, i jo te'l faig. O potser prefereixes dibuixos pintats sobre paret per a embellir una habitació infantil?</p>
 	</div>
 
-Cabecera:
-	<div id="logo_text">
-	<h1>arts i lletres</h1>
-	<p><em>Cristina Costa Mombiela</em></p>
-	</div>
-	<div id="logo_img"><img title="imagpinturas.jpg" src="/images/imagpinturas.jpg" alt="imagpinturas.jpg" width="936" height="390" /></div>
-	
 Lateral:
 	<h2>Un cop d'ull a la galeria de quadres de col·lecció privada:</h2>
 	<p> </p>

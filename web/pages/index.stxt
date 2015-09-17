@@ -4,6 +4,7 @@ Datos página:
 	Título:INTRODUCCIÓ
 	Palabras clave:
 	Prioridad: 0.8
+	Logo: imaginicio.jpg
 
 Contenido:
 	<div class="entry">
@@ -16,10 +17,3 @@ Contenido:
 	<p>Fa una vintena d’anys que estic dins el món laboral fent tasques poc relacionades amb la meva faceta artística, però per sort, no l'he deixada mai de banda i sempre estic "amb les mans a la massa" fent coses per mi i pel meu entorn i, és per això, que em dono i ho dono a conèixer en aquesta web.</p>
 	</div>
 
-Cabecera:
-	<div id="logo_text">
-	<h1>arts i lletres</h1>
-	<p><em>Cristina Costa Mombiela</em></p>
-	</div>
-	<div id="logo_img"><img title="imaginicio.jpg" src="/images/imaginicio.jpg" alt="imaginicio.jpg" width="950" height="390" /></div>
-	

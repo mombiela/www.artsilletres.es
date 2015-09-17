@@ -22,7 +22,11 @@
         		</div>
         	</div>
         	<div id="logo">
-				$!{doc.getChild("header").getTvalue()}
+				<div id="logo_text">
+					<h1>arts i lletres</h1>
+					<p><em>Cristina Costa Mombiela</em></p>
+				</div>
+				<div id="logo_img"><img src="/images/$!{doc.getChild("metadata").getChild("logo").getTvalue()}" width="950" height="390" /></div>
         	</div>
         	<hr />
         	<div id="page">

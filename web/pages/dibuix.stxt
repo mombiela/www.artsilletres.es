@@ -4,6 +4,7 @@ Datos página:
 	Título:DIBUIX I IL·LUSTRACIONS
 	Palabras clave:
 	Prioridad: 0.5
+	Logo: imagdibuixos.jpg
 
 Contenido:
 	<p> </p>
@@ -13,13 +14,6 @@ Contenido:
 	<p>Són dibuixos per a nens: senzills i plans, rarament amb perspectiva o volum, on hi predomina el color i les cares amables.</p>
 	<p>És una il·lustració infantil, fonamentada en el tòpic, on els personatges dolents no ho semblen tant i amb la que els nostres petits (i els grans) s’hi senten identificats fins i tot amb la tècnica, doncs el traç manual hi dóna proximitat i innocència. Es nota clarament l'evolució il·lustrativa, doncs l'estil ha anat variant amb el temps, i els dibuixos que abans pintava a mà amb llàpissos de colors i ceres, molt més simples i infantils, s'han transformat en les il·lustracions actuals, colorejades digitalment i més riques en detall i color i, malgrat conserven l'essència del principi, aquestes s'hi diuen més per a tot tipus de públic, tant el menut com el gran.</p>
 	<p>Els meus dibuixos, a banda d’il·lustrar llibres i contes per a infants, també són per a imprimir-se en diferents formats, doncs amb ells he fet postals, nadales, cartells, calendaris, felicitacions, minutes de restaurant,  invitacions a festes, participacions de casament, recordatoris de final de curs, punts de llibre, etcètera... Així que, si t'agrada el meu estil, pots encarregar-me el que vulguis i per a la finalitat que prefereixis!</p>
-
-Cabecera:
-	<div id="logo_text">
-	<h1>arts i lletres</h1>
-	<p><em>Cristina Costa Mombiela</em></p>
-	</div>
-	<div id="logo_img"><img title="imagdibuixos.jpg" src="/images/imagdibuixos.jpg" alt="imagdibuixos.jpg" width="950" height="390" /></div>
 
 Lateral:
 	<h2>Mostra de dibuixos i formats:</h2>
