@@ -5,7 +5,7 @@
 		
         <title>$!{doc.getChild("metadata").getChild("title").getTvalue()}</title>
 		<link href='https://fonts.googleapis.com/css?family=Crafty+Girls' rel='stylesheet' type='text/css'>
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
         <script>#parse("/view.js")</script>
 		<link rel="stylesheet" href="/css/style.css" />
 		#if($doc.getChild("sidebar"))
