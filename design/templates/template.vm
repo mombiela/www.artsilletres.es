@@ -2,9 +2,10 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
 		#parse("/generic.vm")
+		<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
         <title>$!{doc.getChild("metadata").getChild("title").getTvalue()}</title>
 		<link rel="stylesheet" href="css/style.css" />
-		<link href='https://fonts.googleapis.com/css?family=Crafty+Girls' rel='stylesheet' type='text/css'>
+		<link href='https://fonts.googleapis.com/css?family=Crafty+Girls' rel='stylesheet' type='text/css' />
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 		<script src="js/main.js"></script>
 		
