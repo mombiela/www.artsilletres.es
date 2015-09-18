@@ -9,13 +9,12 @@ Datos página:
 Contenido:
 	Estiu 2012, aniversari de noces Sergio i Anna
 	
-	{{images/aniversarinoces_sm.jpg | | images/aniversarinoces.jpg | target='_blank'}}
-
-	21/04/2012: Incorporada a l'APIC (Associació Professional d'Il·lustradors de Catalunya)
-	
-	[[http://www.apic.es | www.apic.es]]
-	
-	{{images/apic.png}}
+	<a onclick="window.open('/images/aniversarinoces.jpg','','resizable=yes,width=400,height=400,left=700,top=600');return false;" href="/images/aniversarinoces.jpg">Postal</a></p>
+	<p><a onclick="window.open('/images/aniversarinoces.jpg','','resizable=yes,width=400,height=400,left=700,top=600');return false;" href="/images/aniversarinoces.jpg"><img title="aniversarinoces.jpg" src="/images/aniversarinoces.jpg" alt="aniversarinoces.jpg" width="300" height="218" /></a></p>
+	<p> </p>
+	<p>21/04/2012: Incorporada a l'APIC (Associació Professional d'Il·lustradors de Catalunya)</p>
+	<p><a href="http://www.apic.es">www.apic.es</a></p>
+	<p><img title="apic.png" src="/images/apic.png" alt="apic.png" /></p>
 	
 Lateral:
 	<h2> </h2>

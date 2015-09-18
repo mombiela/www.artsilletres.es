@@ -36,7 +36,9 @@
                         <h2 class="title">
 							$!{doc.getChild("metadata").getChild("title").getTvalue()}
                         </h2>
-                        ${doc.getChild("content").getTvalue()}
+						<p>&nbsp;</p>
+						$!{wiki.render(${doc.getChild("content").getTvalue()})}
+						<p>&nbsp;</p>
         			</div>
         			<div id="sidebar">
 						$!{doc.getChild("sidebar").getTvalue()}

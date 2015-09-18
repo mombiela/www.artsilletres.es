@@ -7,10 +7,7 @@ Datos página:
 	Logo: imagcontact.jpg
 
 Contenido:
-	<div class="entry">
-	<p> </p>
-	<p>Per a qualsevol consulta, pressupost o encàrrec, et pots posar en contacte amb mi a la següent direcció:</p>
-	<address style="text-align: center;"><strong><span style="text-decoration: underline;">cristinacosta@artsilletres.es</span></strong></address>
-	<p> </p>
-	</div>
+	Per a qualsevol consulta, pressupost o encàrrec, et pots posar en contacte amb mi a la següent direcció:
+	
+	[[cristinacosta@artsilletres.es | cristinacosta@artsilletres.es | class="contacte"]]
 

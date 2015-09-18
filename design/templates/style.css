@@ -93,6 +93,11 @@ hr {
 	margin-right: 0;
 }
 
+.contacte {
+	display: block;
+	text-align: center
+}
+
 #wrapper {
 }
 
