@@ -43,55 +43,62 @@ Contenido:
 	pots encarregar-me el que vulguis i per a la finalitat que prefereixis!
 
 Lateral:
-	<h2>Mostra de dibuixos i formats:</h2>
-	<p> </p>
-	<p><a onclick="window.open('/images/playamontgat2012.jpg ','','resizable=yes,width=400,height=400,left=700,top=600');return false;" href="/images/playamontgat2012.jpg">Temps d'havaneres</a></p>
-	<p><img title="playamontgat2012.jpg" src="/images/playamontgat2012.jpg" alt="playamontgat2012.jpg" width="75" height="85" /></p>
-	<p> </p>
-	<p><a onclick="window.open('/images/revetlladesantjoan.jpg ','','resizable=yes,width=400,height=400,left=700,top=600');return false;" href="/images/revetlladesantjoan.jpg">Revetlla de Sant Joan</a></p>
-	<p><img title="revetlladesantjoan.jpg" src="/images/revetlladesantjoan.jpg" alt="revetlladesantjoan.jpg" width="70" height="96" /></p>
-	<p> </p>
-	<p><a onclick="window.open('/images/santjordi5.jpg','','resizable=yes,width=400,height=400,left=700,top=600');return false;" href="/images/santjordi5.jpg">Sant Jordi mata el drac</a></p>
-	<p> </p>
-	<p><span style="text-decoration: underline;"><a onclick="window.open('/images/santjordi3.jpg','','resizable=yes,width=400,height=400,left=700,top=600');return false;" href="/images/">Sant Jordi i la princesa</a></span></p>
-	<p> </p>
-	<p><a onclick="window.open('/images/patimpatampatum.jpg ','','resizable=yes,width=400,height=400,left=700,top=600');return false;" href="/images/patimpatampatum.jpg">Patim-patam-patum</a></p>
-	<p><img title="patimpatampatum.jpg" src="/images/patimpatampatum.jpg" alt="patimpatampatum.jpg" width="70" height="48" /></p>
-	<p> </p>
-	<p><a onclick="window.open('/images/santvaleni1.jpg','','resizable=yes,width=400,height=400,left=700,top=600');return false;" href="/images/santvaleni1.jpg">Sant Valentí</a></p>
-	<p> </p>
-	<p><a onclick="window.open('/images/setmanasanta2.jpg','','resizable=yes,width=400,height=400,left=700,top=600');return false;" href="/images/setmanasanta2.jpg">Setmana Santa</a></p>
-	<p> </p>
-	<p><a onclick="window.open('/images/diumengederams.jpg ','','resizable=yes,width=400,height=400,left=700,top=600');return false;" href="/images/diumengederams.jpg">El dia de la palma</a></p>
-	<p> </p>
-	<p><a onclick="window.open('/images/quaresma1.jpg','','resizable=yes,width=400,height=400,left=700,top=600');return false;" href="/images/quaresma1.jpg">Quaresma</a></p>
-	<p> </p>
-	<p><a onclick="window.open('/images/reis3.jpg','','resizable=yes,width=400,height=400,left=700,top=600');return false;" href="/images/reis3.jpg">Els Reis Mags entren a casa</a></p>
-	<p><img title="reis3.jpg" src="/images/reis3.jpg" alt="reis3.jpg" width="75" height="50" /></p>
-	<p> </p>
-	<p><a onclick="window.open('/images/reis1.jpg','','width=400,height=400,left=700,top=600');return false;" href="/images/reis1.jpg">El camell dels Reis</a></p>
-	<p> </p>
-	<p><a onclick="window.open('/images/portada2.jpg','','resizable=yes,width=400,height=400,left=700,top=600');return false;" href="/images/portada2.jpg">El català</a></p>
-	<p> </p>
-	<p><a onclick="window.open('/images/introduccio1.jpg','','resizable=yes,width=400,height=400,left=700,top=600');return false;" href="/images/introduccio1.jpg">Menjar tradicional</a></p>
-	<p> </p>
-	<p><a onclick="window.open('/images/santjoan4.jpg ','','resizable=yes,width=400,height=400,left=700,top=600');return false;" href="/images/santjoan4.jpg">Coca de Sant Joan</a></p>
-	<p> </p>
-	<p><a onclick="window.open('/images/santjoan3.jpg','','resizable=yes,width=400,height=400,left=700,top=600');return false;" href="/images/santjoan3.jpg">Focs de Sant Joan</a></p>
-	<p> </p>
-	<p><a onclick="window.open('/images/poesiaprofemireia.jpg ','','resizable=yes,width=400,height=400,left=700,top=600');return false;" href="/images/poesiaprofemireia.jpg">Recordatori de final de parvulari</a></p>
-	<p><img title="poesiaprofemireia.jpg" src="/images/poesiaprofemireia.jpg" alt="poesiaprofemireia.jpg" width="70" height="98" /></p>
-	<p> </p>
-	<p><a onclick="window.open('/images/evolucioescolarweb.jpg ','','resizable=yes,width=400,height=400,left=600,top=600');return false;" href="/images/evolucioescolarweb.jpg">Il.Lustració per a cartell fi de curs</a></p>
-	<p><img title="evolucioescolarweb.jpg" src="/images/evolucioescolarweb.jpg" alt="evolucioescolarweb.jpg" width="70" height="20" /></p>
-	<p> </p>
-	<p><a onclick="window.open('/images/universperweb.jpg ','','resizable=yes,width=400,height=400,left=700,top=600');return false;" href="/images/universperweb.jpg">Dibuix per a postal senyoreta P3</a></p>
-	<p><img title="universperweb.jpg" src="/images/universperweb.jpg" alt="universperweb.jpg" width="65" height="67" /></p>
-	<p> </p>
-	<p><a onclick="window.open('/images/aniversarinoces.jpg','','resizable=yes,width=400,height=400,left=700,top=600');return false;" href="/images/aniversarinoces.jpg">Postal per a aniversari de noces</a></p>
-	<p><img title="aniversarinoces.jpg" src="/images/aniversarinoces.jpg" alt="aniversarinoces.jpg" width="75" height="55" /></p>
-	<p> </p>
-	<p> </p>
-	<p> </p>
-	<p> </p>
+	== Mostra de dibuixos i formats:
+	\\ 
+	[[images/playamontgat2012.jpg | Temps d'havaneres | target="_blank" ]]
+	
+	\\ 
+	[[images/revetlladesantjoan.jpg | Revetlla de Sant Joan | target="_blank" ]]
+	
+	\\
+	[[images/santjordi5.jpg | Sant Jordi mata el drac | target="_blank" ]]
+	
+	\\
+	[[images/santjordi3.jpg | Sant Jordi i la princesa | target="_blank" ]]
+	
+	\\
+	[[images/patimpatampatum.jpg | Patim-patam-patum | target="_blank" ]]
+	
+	\\
+	[[images/santvaleni1.jpg | Sant Valentí | target="_blank" ]]
+	
+	\\
+	[[images/setmanasanta2.jpg | Setmana Santa | target="_blank" ]]
+	
+	\\
+	[[images/diumengederams.jpg | El dia de la palma | target="_blank" ]]
+	
+	\\
+	[[images/quaresma1.jpg | Quaresma | target="_blank" ]]
+	
+	\\
+	[[images/reis3.jpg | Els Reis Mags entren a casa | target="_blank" ]]
+	
+	\\
+	[[images/reis1.jpg | El camell dels Reis | target="_blank" ]]
+	
+	\\
+	[[images/portada2.jpg | El català | target="_blank" ]]
+	
+	\\
+	[[images/introduccio1.jpg | Menjar tradicional | target="_blank" ]]
+	
+	\\
+	[[images/santjoan4.jpg | Coca de Sant Joan | target="_blank" ]]
+	
+	\\
+	[[images/santjoan3.jpg | Focs de Sant Joan | target="_blank" ]]
+	
+	\\
+	[[images/poesiaprofemireia.jpg | Recordatori de final de parvulari | target="_blank" ]]
+	
+	\\
+	[[images/evolucioescolarweb.jpg | Il.Lustració per a cartell fi de curs | target="_blank" ]]
+	
+	\\
+	[[images/universperweb.jpg | Dibuix per a postal senyoreta P3 | target="_blank" ]]
+	
+	\\
+	[[images/aniversarinoces.jpg | Postal per a aniversari de noces | target="_blank" ]]
 
+	\\
