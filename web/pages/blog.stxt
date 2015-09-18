@@ -9,11 +9,11 @@ Datos página:
 Contenido:
 	Estiu 2012, aniversari de noces Sergio i Anna
 	
-	{{images/aniversarinoces_sm.jpg | | images/aniversarinoces.jpg | target='_blank'}}
+	{{images/aniversarinoces_sm.jpg | title="Foto aniversari" | images/aniversarinoces.jpg | target='_blank'}}
 
 	21/04/2012: Incorporada a l'APIC (Associació Professional d'Il·lustradors de Catalunya)
 	
-	[[http://www.apic.es | www.apic.es]]
+	[[http://www.apic.es]]
 	
 	{{images/apic.png}}
 	
@@ -26,7 +26,7 @@ Lateral:
 	
 	[[images/playamontgat2012.jpg | Platja de Montgat 2012 | target="_blank" ]]
 	
-	{{images/playamontgat2012_sm.jpg | | images/playamontgat2012.jpg | target='_blank'}}
+	{{images/playamontgat2012_sm.jpg | title="Foto platja" | images/playamontgat2012.jpg | target='_blank'}}
 	
 	\\
 	
@@ -34,6 +34,6 @@ Lateral:
 
 	[[images/revetlladesantjoan.jpg | Revetlla de Sant Joan | target="_blank" ]]
 
-	{{images/revetlladesantjoan_sm.jpg | | images/revetlladesantjoan.jpg | target="_blank" }}
+	{{images/revetlladesantjoan_sm.jpg | title="Foto revetlla" | images/revetlladesantjoan.jpg | target="_blank" }}
 
 	
