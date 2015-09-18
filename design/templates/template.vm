@@ -9,11 +9,11 @@
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 		<script src="js/main.js"></script>
 		
-		#if($doc.getChild("sidebar"))
+		##if($doc.getChild("sidebar"))
 			<style>
 				#content {width: ${pixels_content}px;}
             </style>
-		#end
+		##end
     </head>
     <body>
         <div id="wrapper">
@@ -43,6 +43,8 @@
         			<div id="sidebar">
 						#if($doc.getChild("sidebar"))
 							$!{wiki.render(${doc.getChild("sidebar").getTvalue()})}
+						#else
+							#include("/adsense.vm")
 						#end
         			</div>
         			<div style="clear: both;">&nbsp;</div>
