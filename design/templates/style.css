@@ -297,14 +297,13 @@ hr {
 
 #footer {
 	width: 1000px;
-	height: 95px;
 	margin: 0 auto;
 	padding: 0;
 }
 
 #footer p {
 	margin: 0;
-	padding: 56px 0;
+	padding: 15px 0;
 	text-align: center;
 	line-height: normal;
 	font-size: 10px;
@@ -312,6 +311,7 @@ hr {
 }
 
 #footer a {
-	color: #FFFFFF;
+	color: #F0F0F0;
+	font-style: italic;
 }
 

@@ -3,7 +3,10 @@
 Pixels Contenido: 600
 Tamaño de la fuente contenido: 14
 Tamaño de la fuente lateral: 14
-Pie: Copyright (c) 2011 Arts i Lletres. Tots els drets reservats.
+Pie:
+	Copyright (c) 2011 Arts i Lletres. Tots els drets reservats.
+	[[http://www.semantictext.info | Tecnologia STxT]]
+	
 	
 Menú:
 	* [[index.html | INICI]]
