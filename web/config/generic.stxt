@@ -3,8 +3,7 @@
 Pixels Contenido: 600
 Tamaño de la fuente contenido: 14
 Tamaño de la fuente lateral: 14
-Pie: 
-	Copyright (c) 2011 Arts i Lletres. Tots els drets reservats.
+Pie: Copyright (c) 2011 Arts i Lletres. Tots els drets reservats.
 	
 Menú:
 	* [[/index.html | INICI]]
@@ -13,3 +12,4 @@ Menú:
 	* [[/per_tu.html | QUÈ PUC FER PER TU]]
 	* [[/contacte.html | CONTACTE]]
 	* [[/blog.html | BLOG]]
+	* {{/images/demo.jpg | Una imágen}}
