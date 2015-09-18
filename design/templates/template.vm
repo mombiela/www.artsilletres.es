@@ -41,7 +41,9 @@
 						<p>&nbsp;</p>
         			</div>
         			<div id="sidebar">
-						$!{doc.getChild("sidebar").getTvalue()}
+						#if($doc.getChild("sidebar"))
+							$!{wiki.render(${doc.getChild("sidebar").getTvalue()})}
+						#end
         			</div>
         			<div style="clear: both;">&nbsp;</div>
         		</div>

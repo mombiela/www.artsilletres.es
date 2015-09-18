@@ -18,14 +18,22 @@ Contenido:
 	{{images/apic.png}}
 	
 Lateral:
-	<h2> </h2>
-	<p> </p>
-	<p>Temps d'havaneres i rom cremat</p>
-	<p><a onclick="window.open('/images/playamontgat2012.jpg ','','resizable=yes,width=400,height=400,left=700,top=600');return false;" href="/images/playamontgat2012.jpg%20">Platja de Montgat 2012</a></p>
-	<p><a onclick="window.open('/images/playamontgat2012.jpg','','resizable=yes,width=400,height=400,left=700,top=600');return false;" href="/PlayaMontgat2012.jpg%20"><img title="/PlayaMontgat2012.jpg" src="/images/playamontgat2012.jpg" alt="/PlayaMontgat2012.jpg" width="300" height="342" /></a></p>
-	<p> </p>
-	<p>Bona revetlla de Sant Joan 2012!</p>
-	<p><a onclick="window.open('/images/revetlladesantjoan.jpg','','resizable=yes,width=400,height=400,left=700,top=600');return false;" href="/images/revetlladesantjoan.jpg">Revetlla de Sant Joan</a></p>
-	<p><a onclick="window.open('/images/revetlladesantjoan.jpg','','resizable=yes,width=400,height=400,left=700,top=600');return false;" href="/images/revetlladesantjoan.jpg"><img title="/images/revetlladesantjoan.jpg" src="/images/revetlladesantjoan.jpg" alt="/images/revetlladesantjoan.jpg" width="300" height="412" /></a></p>
+	== Una altra mostra de dibuixos ;-)
+	
+	\\
+	
+	Temps d'havaneres i rom cremat
+	
+	[[images/playamontgat2012.jpg | Platja de Montgat 2012 | target="_blank" ]]
+	
+	{{images/playamontgat2012_sm.jpg | | images/playamontgat2012.jpg | target='_blank'}}
+	
+	\\
+	
+	Bona revetlla de Sant Joan 2012!
 
+	[[images/revetlladesantjoan.jpg | Revetlla de Sant Joan | target="_blank" ]]
 
+	{{images/revetlladesantjoan_sm.jpg | | images/revetlladesantjoan.jpg | target="_blank" }}
+
+	
