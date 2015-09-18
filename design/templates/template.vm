@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
 		#parse("/generic.vm")
-		
         <title>$!{doc.getChild("metadata").getChild("title").getTvalue()}</title>
+		<link rel="stylesheet" href="css/style.css" />
 		<link href='https://fonts.googleapis.com/css?family=Crafty+Girls' rel='stylesheet' type='text/css'>
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
-        <script>#parse("/view.js")</script>
-		<link rel="stylesheet" href="/css/style.css" />
+		<script src="js/main.js"></script>
+		
 		#if($doc.getChild("sidebar"))
 			<style>
 				#content {width: ${pixels_content}px;}
@@ -26,7 +26,7 @@
 					<h1>arts i lletres</h1>
 					<p><em>Cristina Costa Mombiela</em></p>
 				</div>
-				<div id="logo_img"><img src="/images/$!{doc.getChild("metadata").getChild("logo").getTvalue()}" width="950" height="390" /></div>
+				<div id="logo_img"><img src="images/$!{doc.getChild("metadata").getChild("logo").getTvalue()}" width="950" height="390" /></div>
         	</div>
         	<hr />
         	<div id="page">
