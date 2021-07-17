@@ -1,0 +1,43 @@
+﻿Página (www.artsilletres.es/page.stxt):
+
+Datos página:
+	Título:EL MEU BLOG
+	Palabras clave:
+	Prioridad: 0.5
+	Logo: blog.jpg
+	
+Contenido:
+	Estiu 2012, aniversari de noces Sergio i Anna
+	
+	{{images/aniversarinoces_sm.jpg | title="Foto aniversari" | images/aniversarinoces.jpg | target='_blank'}}
+
+	21/04/2012: Incorporada a l'APIC (Associació Professional d'Il·lustradors de Catalunya)
+	
+	[[http://www.apic.es]]
+	
+	{{images/apic.png}}
+	
+Lateral:
+	== Una altra mostra de dibuixos ;-)
+	
+	\\
+	
+	Temps d'havaneres i rom cremat
+	
+	[[images/playamontgat2012.jpg | Platja de Montgat 2012 | target="_blank" ]]
+	
+	\\
+	
+	{{images/playamontgat2012_sm.jpg | title="Foto platja" | images/playamontgat2012.jpg | target='_blank'}}
+	
+	\\
+	
+	Bona revetlla de Sant Joan 2012!
+
+	[[images/revetlladesantjoan.jpg | Revetlla de Sant Joan | target="_blank" ]]
+	
+	\\
+
+	{{images/revetlladesantjoan_sm.jpg | title="Foto revetlla" | images/revetlladesantjoan.jpg | target="_blank" }}
+
+	
