@@ -54,6 +54,6 @@
         		$!{wiki.render(${generic.getChild("footer").getTvalue()})}
         	</div>
         </div>
-		#include("/google.vm")		
+		##include("/google.vm")		
     </body>
 </html>
